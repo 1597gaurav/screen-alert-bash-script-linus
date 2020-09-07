@@ -1,1 +1,1 @@
-# screen-alert-bash-script-linus
+# screen-alert-bash-script-linux
